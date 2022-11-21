@@ -1,0 +1,2 @@
+mlflow==2.0.1
+pymysql==1.0.2
