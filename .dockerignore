@@ -1,0 +1,7 @@
+**/temp*
+**/.idea*
+**/database/*
+**Dockerfile
+**.dockerignore
+**.md*
+!README.md
